@@ -22,4 +22,4 @@ Transmettre mes connaissances et collaborer pour élever la qualité du code son
 
 - **Email** : lacour.vincent.app@gmail.com
 - **LinkedIn** : [linkedin.com/in/lacour-vincent](https://www.linkedin.com/in/lacour-vincent)
-- **CV** : [resume-lacour-vincent.netlify.app](https://www.resume-lacour-vincent.netlify.app)
+- **CV** : [resume-lacour-vincent.netlify.app](https://resume-lacour-vincent.netlify.app)
