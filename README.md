@@ -1,4 +1,4 @@
-# LACOUR Vincent 👨‍💻 Senior Front-End Engineer
+# LACOUR Vincent 👨‍💻 Lead Developer front-end / mobile
 
 Passionné par l’alliance entre créativité et technicité, je conçois des applications web et mobiles performantes, alliant ergonomie, adaptabilité et robustesse.
 
